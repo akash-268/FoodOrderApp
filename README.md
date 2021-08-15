@@ -1,6 +1,6 @@
 # FoodOrderApp
 Order your favourite food easily. Delicious Food on your way just a tap away, just select from our exquisite menu and order the food you like.
-## Instalation
+## Installation
 Clone this repository:
 ```
 git clone https://github.com/akash-268/FoodOrderApp.git

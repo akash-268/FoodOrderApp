@@ -1,5 +1,5 @@
 # FoodOrderApp
-Order your favourite food easily
+Order your favourite food easily. Delicious Food on your way just a tap away, just select from our exquisite menu and order the food you like.
 ## Instalation
 Clone this repository:
 ```
